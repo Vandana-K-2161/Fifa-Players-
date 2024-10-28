@@ -1,8 +1,6 @@
 # Fifa-Players-
 # FIFA Players Dataset Analysis  
 
-![FIFA Logo]("C:\Users\Jayarajan K\Downloads\vecteezy_fifa-official-logo-symbol-design-vector-abstract-illustration_14470974_546\vecteezy_fifa-official-logo-symbol-design-vector-abstract-illustration_14470974.jpg") 
-
 ## Description  
 
 This project analyzes a dataset of FIFA players to uncover key statistics and insights about player demographics, salaries, and club affiliations. The findings highlight notable trends and characteristics within the player base.  
